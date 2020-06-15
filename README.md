@@ -6,6 +6,12 @@
     
 ## Set Up
 
+Install Jupyter Notebook
+    
+    pip install jupyterlab
+    
+Set Up Coffea and other tools    
+
     source setup.sh
     
 ## Running coffea.pynb
