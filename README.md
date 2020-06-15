@@ -1,4 +1,4 @@
-# WH-All-Hadronic-Coffea-Tools
+# WH All-Hadronic Coffea Tools
 ---
 ## Checkout Instructions 
 
