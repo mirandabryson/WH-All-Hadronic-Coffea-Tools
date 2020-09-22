@@ -16,7 +16,7 @@ Set Up Coffea and other tools
     
 ## Running Jupyter Hub locally (credit to Nick)
 
-# Set Up
+Set Up
 
     curl -O -L https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
     bash Miniconda3-latest-Linux-x86_64.sh -b 
@@ -36,7 +36,7 @@ Set Up Coffea and other tools
     pip install tqdm coffea jupyter-server-proxy autopep8 jupyter_nbextensions_configurator
     
 
-# Start Jupyter Notebook
+Start Jupyter Notebook
 
     conda activate analysisenv 
     jupyter notebook --no-browser
